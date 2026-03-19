@@ -1,0 +1,19 @@
+input[type="checkbox"] {
+    transform: scale(1.5);
+    margin: 30px;
+}
+
+.taskContainer{
+    padding: 10px;
+    align-items:center;
+    width: 80vw;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.inputStyles{
+    margin: 10px;
+    z-index: 7;
+}

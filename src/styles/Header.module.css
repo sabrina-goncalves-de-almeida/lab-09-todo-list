@@ -1,0 +1,12 @@
+.containerHeader{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ffffffb5;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.quantTask{
+    margin: 10px;
+}
